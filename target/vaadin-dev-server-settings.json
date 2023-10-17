@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/workspaces/flow-quickstart-tutorial/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/workspaces/flow-quickstart-tutorial/frontend/generated/jar-resources",
+  "staticOutput": "target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "target/classes/META-INF/VAADIN/webapp/../config/",
+  "frontendBundleOutput": "target/classes/META-INF/VAADIN/webapp/",
+  "devBundleOutput": "/workspaces/flow-quickstart-tutorial/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "/workspaces/flow-quickstart-tutorial/src/main/dev-bundle/config",
+  "jarResourcesFolder": "/workspaces/flow-quickstart-tutorial/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "/workspaces/flow-quickstart-tutorial/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
